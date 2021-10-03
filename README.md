@@ -1,5 +1,7 @@
-![](https://cdn.discordapp.com/attachments/864933503682215936/888066443856470046/888055753221500988.png)
+# ![](https://cdn.discordapp.com/attachments/864933503682215936/888066443856470046/888055753221500988.png) Stats
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rex-Hm&count_private=true&show_icons=true&theme=dark&border_color=9e9ef0&bg_color=0f0f17&icon_color=9e9ef0&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rex-Hm&layout=compact&theme=dark&border_color=9e9ef0&bg_color=0f0f17&icon_color=9e9ef0)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Rex-Hm/Rex-Hm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
