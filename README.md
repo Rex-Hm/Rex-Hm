@@ -1,3 +1,5 @@
+get real
+<!--
 # ![](https://cdn.discordapp.com/attachments/864933503682215936/888066443856470046/888055753221500988.png) Stats ![](https://cdn.discordapp.com/attachments/864933503682215936/888066443856470046/888055753221500988.png)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rex-Hm&count_private=true&show_icons=true&theme=dark&border_color=9e9ef0&bg_color=0f0f17&icon_color=9e9ef0&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
